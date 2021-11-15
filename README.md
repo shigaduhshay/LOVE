@@ -14,7 +14,7 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 >
 > - to Share — to copy, distribute and transmit the work.
 > - to Remix — to adapt the work.
->####Under the following conditions:
+>#### Under the following conditions:
 >
 >- Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your >use of the work).
 >- Noncommercial — You may not use this work for commercial purposes.
