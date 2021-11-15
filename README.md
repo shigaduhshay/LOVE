@@ -1,16 +1,16 @@
 ![#LOVE](../master/meta/banner.png)
 
-###About:
+### About:
 
 LOVE is an Undertale homebrew currently being written for the Nintendo 3DS system with use of <a href="https://github.com/VideahGams/LovePotion">LövePotion</a>, an unofficial implementation of the Löve API for the 3DS by <a href="https://github.com/VideahGams">VideahGams</a>. The intent of this homebrew is to provide an Undertale related experience without touching the actual game, since depending on how you played it, you might not want to delete your save file. However this is not meant to replace Undertale in any way, and you should purchase the original game.
 ___
 
-###Licensing:
+### Licensing:
 
 LOVE is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
 
 Undertale is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</a>:
->####You are free:
+>#### You are free:
 >
 > - to Share — to copy, distribute and transmit the work.
 > - to Remix — to adapt the work.
@@ -20,7 +20,7 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 >- Noncommercial — You may not use this work for commercial purposes.
 >- Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license.
 
->####With the understanding that:
+>#### With the understanding that:
 >
 > 1. Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
 > 2. Other Rights — In no way are any of the following rights affected by the license:
@@ -32,7 +32,7 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 > - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 ___
 
-###Credit & Copyright:
+### Credit & Copyright:
 - The "Undertale" name, graphics, audio, characters, setting from the game are © Toby Fox. Thanks for making such a wonderful game.
 
 - <a href="https://www.behance.net/gallery/31378523/Monster-Friend-Undertale-Logo-Font">Monster Friend</a>, which is the font used for LOVE's logo, was made by <a href="https://www.behance.net/JapanYoshi">Harry Wakamatsu</a>.
@@ -42,11 +42,11 @@ ___
 
 ___
 
-###Building LOVE:
+### Building LOVE:
 You cannot build LOVE on your own, you have to add it to LovePotion and then compile that with the [game folder](../master/game) in the root of LovePotion, as well as replace the makefile and meta files with the ones found in this project.
 
 ___
 
-###Other Links:
+### Other Links:
 GBAtemp Forum Thread: <a href="https://gbatemp.net/threads/wip-love-a-visual-homebrew-for-fallen-humans.420076/page-3#post-6706194">[LINK]</a>
 Old GitHub Repo: <a href="https://github.com/Xavyrr/LOVE-OLD-">[LINK]</a>
